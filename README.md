@@ -3,7 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bruno3du&label=Profile%20views&color=0e75b6&style=flat" alt="bruno3du" /> </p>
 
-- 🌱 I’m currently learning **HTML,CSS, JS.**
+- 🌱 I’m currently learning **Bootstrap, Jquery and Firebase**
+- I certainly can help you with **HTLM, CSS, JavaScript**
 
 - 📫 How to reach me **bruno.3duardo@hotmail.com**
 
