@@ -36,4 +36,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bruno3du&show_icons=true&locale=en&layout=compact" alt="bruno3du" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bruno3du&show_icons=true&locale=en" alt="bruno3du" /></p>
+&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bruno3du&show_icons=true&locale=en" alt="bruno3du" />
