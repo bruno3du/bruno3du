@@ -33,6 +33,3 @@
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 <!--React-->
 </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bruno3du&show_icons=true&locale=en&layout=compact" alt="bruno3du" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=bruno3du&show_icons=true&locale=en" alt="bruno3du" /></p>
