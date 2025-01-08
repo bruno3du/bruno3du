@@ -9,21 +9,8 @@
 <h3 align="left">Languages and Tools:</h3>
 
 
-<div align="left">
-<!-- HTML -->
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/> </a>
-<!--  CSS  -->
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" /> </a>
-<!--JavaScript-->
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" /> </a>
-<!--Typescript-->
-<a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" /> </a>
-<!--React-->
-</a> <a href="https://reactjs.org/" target="_blank"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" /> </a>
-<!--  Bootstrap  -->
-<a href="https://getbootstrap.com" target="_blank"> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" /> </a>
-<!--  Node.js  -->
-<a href="https://nodejs.org/en/" target="_blank"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="node" /> </a>
-<!--  Next.js  -->
-<a href="https://nextjs.org/" target="_blank"> <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="next" /> </a>
-</div>
+- Languages: JavaScript (ES2022), NodeJS, Typescript, CSS, Sass, HTML
+- Frameworks: React.js/Redux/Redux-Saga/React-Router, VueJS, React-Spring, Django, Marterial UI, Tailwind CSS, ChakraUi
+- Skills: Responsive Web Design, Site & Image Optimization, Web.
+- Web Technologies: Node.js, Nextjs, Express, REST, GraphQL, GitHub Actions, Eletron
+- Tools: Git, Vim, ESLint, Jest, Vite
