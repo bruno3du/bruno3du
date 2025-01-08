@@ -10,7 +10,7 @@
 
 
 - Languages: JavaScript (ES2022), NodeJS, Typescript, CSS, Sass, HTML
-- Frameworks: React.js/Redux/Redux-Saga/React-Router, VueJS, React-Spring, Django, Marterial UI, Tailwind CSS, ChakraUi
+- Frameworks: React.js/Redux/Redux-Saga/React-Router, VueJS, React-Spring, Marterial UI, Tailwind CSS, ChakraUi
 - Skills: Responsive Web Design, Site & Image Optimization, Web.
 - Web Technologies: Node.js, Nextjs, Express, REST, GraphQL, GitHub Actions, Eletron
 - Tools: Git, Vim, ESLint, Jest, Vite
